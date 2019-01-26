@@ -1,0 +1,768 @@
+@media (min-width: 768px) {
+
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    html{
+        background-image: url("/images/1.jpeg");
+        background-size: cover;
+        height: 100%;
+    }
+
+    h6{
+        display: none;
+    }
+
+    body{
+        font-size: 46px;
+        width: 768px;
+        margin: 0 auto;
+    }
+
+}
+
+#screen{
+    display: block;
+    width: 100%;
+}
+
+#tp{
+    display: block;
+    margin: 3% auto 0;
+    width: 55%;
+    height: 55%;
+}
+
+#tableNumberHolderFirstPage{
+    text-align: center;
+    position: absolute;
+    top: 0;
+    margin: 0 auto;
+    width: 100%;
+    height: 13%;
+}
+
+#table1{
+    padding-top: 1%;
+    display: inline-block;
+    font-size: 4rem;
+    text-align: center;
+}
+
+#table2{
+    padding-top: 1%;
+    display: inline-block;
+    font-size: 4rem;
+    text-align: center;
+}
+
+#wrapper{
+    position: relative;
+    background-image: url("/images/keyboard.png");
+    background-size: cover;
+    display: block;
+    margin: 3% auto 0;
+    width: 96%;
+    height: 875px;
+}
+
+.send{
+    margin: 0 auto;
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    background-color: pink;
+    opacity: 0;
+}
+
+#one{
+    top: 16%;
+    left: -1%;
+}
+
+#two{
+    top: 16%;
+    left: 33.5%;
+}
+
+#tree{
+    top: 16%;
+    left: 68.5%;
+}
+
+#four{
+    top: 37.3%;
+    left: -1%;
+}
+
+#five{
+    top: 37.3%;
+    left: 33.5%;
+}
+
+#six{
+    top: 37.3%;
+    left: 68.5%;
+}
+
+#seven{
+    top: 58.8%;
+    left: -1%;
+}
+
+#eight{
+    top: 58.8%;
+    left: 33.5%;
+}
+
+#nine{
+    top: 58.8%;
+    left: 68.5%;
+}
+
+#delete{
+    top: 80%;
+    left: -1%;
+}
+
+#zero{
+    top: 80%;
+    left: 33.5%;
+}
+
+#enter{
+    top: 80%;
+    left: 68.5%;
+}
+
+#page2{
+    background-image: url("/images/2.png");
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+}
+
+#tab1{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 37%;
+    height: 43%;
+}
+
+#tab2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 37%;
+    height: 37%;
+}
+
+#buttonPage2_1{
+    position: absolute;
+    top: 17%;
+    right: 0.8%;
+    width: 35%;
+    height: 7.7%;
+}
+
+#buttonPage2_2{
+    position: absolute;
+    top: 25.1%;
+    right: 0.8%;
+    width: 35%;
+    height: 7.7%;
+}
+
+#buttonPage2_3{
+    position: absolute;
+    top: 33.2%;
+    right: 0.8%;
+    width: 35%;
+    height: 7.7%;
+}
+
+#buttonPage2_4{
+    position: absolute;
+    top: 76.4%;
+    right: 0.8%;
+    width: 35%;
+    height: 10%;
+}
+
+#buttonPage2_5{
+    position: absolute;
+    top: 88%;
+    right: 0.8%;
+    width: 35%;
+    height: 10%;
+}
+
+#buttonPage2_6{
+    position: absolute;
+    top: 65%;
+    right: 0.8%;
+    width: 35%;
+    height: 10%;
+}
+
+.nav2_1{
+    margin-top: 1.5%;
+    font-size: 3rem !important;
+    text-align: center;
+    display: block;
+    width: 35.1%;
+}
+
+.nav2_2{
+    margin-top: 2%;
+    font-size: 3rem !important;
+    text-align: center;
+    display: block;
+    width: 35.1%;
+}
+
+#drowNote{
+    position: absolute;
+    top: 17%;
+    right: 0.8%;
+}
+#corektion{
+    position: absolute;
+    top: 24.5%;
+    right: 0.8%;
+}
+#orders{
+    position: absolute;
+    top: 33%;
+    right: 0.8%;
+}
+#sandOrder{
+    position: absolute;
+    top: 77%;
+    right: 0.8%;
+}
+#cancelOrder{
+    position: absolute;
+    top: 88%;
+    right: 0.8%;
+}
+#total{
+    position: absolute;
+    top: 66%;
+    right: 0.8%;
+}
+
+.areYouShuar1{
+    display: none;
+}
+
+.areYouShuar2{
+    display: block;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 95%;
+    margin: 0 auto;
+    background-color: pink;
+    border: 2px solid red;
+}
+
+#paragraf{
+    width: 100%;
+    height: 80%;
+    font-size: 10rem;
+    text-align: center;
+}
+
+#noSendOrder{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#yesSendOrder{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#noCancel{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#yesCancel{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#noSendTotal{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#yesSendTotal{
+    margin: 0 !important;
+    width: 49%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: 4rem !important;
+    border: 4px solid red;
+}
+
+#slideMenu{
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+.itemH{
+    width: 63%;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15rem;
+    text-align: center;
+    display: block;
+    font-size: 3rem;
+    margin: 0.3% 0;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.itemHistoryH{
+    width: 63%;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15rem;
+    text-align: center;
+    display: block;
+    font-size: 3rem;
+    margin: 0.3% 0;
+    color: black;
+    background-color: #89a3ed;
+    border: 3px solid white;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.item{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15rem;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.itemHistory{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15rem;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: black;
+    background-color: #c3c3f1;
+    border: 3px solid black;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.backFromHistory{
+    position: fixed;
+    bottom: 0.5%;
+    right: 0.8%;
+    text-align: center;
+    display: block;
+    width: 44%;
+    height: 15%;
+}
+
+.backFromHistoryText{
+    position: fixed;
+    bottom: 0.5%;
+    right: 0.8%;
+    font-size: 5rem;
+    text-align: center;
+    display: block;
+    width: 44%;
+    margin-bottom: 5%;
+}
+
+.nameH1{
+    margin-left: 8%;
+    display: inline;
+    font-size: 2rem;
+}
+
+.quantityH1{
+    margin-right: 5%;
+    display: block;
+    float: right;
+    font-size: 2rem;
+}
+
+.itemWasPresed{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15%;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.itemWasCorected{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15%;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+.errorSpanMustBeDeleted{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15%;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: white;
+    background-color: pink;
+    border: 1px solid white;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+#mainOrder{
+    background-image: url("/images/2.png");
+    background-size: cover;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#pageCorektion{
+    background-image: url("/images/2.png");
+    background-size: cover;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#tab3_1{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 37%;
+    height: 28%;
+}
+
+#buttonPage3_0{
+    position: fixed;
+    top: 0.5%;
+    right: 0.8%;
+    width: 35.3%;
+    height: 12%;	
+}
+#buttonPage3_1{
+    position: fixed;
+    top: 14%;
+    right: 0.8%;
+    width: 35.3%;
+    height: 12%;	
+}
+
+#tab3_2{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 37%;
+    height: 20%;
+}
+
+#buttonPage3_2{
+    position: fixed;
+    top: 83%;
+    right: 0.8%;
+    width: 35%;
+    height: 12%;	
+}
+
+.nav3_1{
+    padding-top: 2.5%;
+    font-size: 4rem;
+    text-align: center;
+    width: 35%;
+    height: 12%;
+}
+
+.navActive{
+    background-color: pink;
+}
+
+#remove{
+    display: block;
+    position: fixed;
+    top: 0.5%;
+    right: 0.8%;
+}
+
+#stepBack{
+    display: none;
+    position: fixed;
+    top: 14%;
+    right: 0.8%;
+}
+
+#done{
+    position: fixed;
+    top: 83%;
+    right: 0.8%;
+}
+
+
+.temporalSpan{
+    width: 60%;
+    text-align: left;
+    float: left;
+    clear: left;
+    letter-spacing: -0.15%;
+    display: block;
+    font-size: 2rem;
+    margin: 0.3% 0;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0 50px 50px 0;
+    font-weight: 900;
+}
+
+
+.atentionOff{
+    padding-top: 1%;
+    position: absolute;
+    right: 1%;
+    top: 51%;
+    border: 15px solid yellow;
+    border-radius: 50px;
+    width: 14%;
+    height: 11%;
+    font-size: 4rem;
+    text-align: center;
+    color: yellow;
+    background-color: white;
+}
+.atentionOn{
+    padding-top: 1%;
+    position: absolute;
+    right: 1%;
+    top: 51%;
+    border: 15px solid red;
+    border-radius: 50px;
+    width: 14%;
+    height: 11%;
+    font-size: 4rem;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+
+#pageCanvas{
+    background-image: url("/images/2.png");
+    background-size: cover;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#canvasScreen{
+    background-color: rgba(158, 167, 184, 0.6);
+    border: 30px solid purple;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    border-radius: 50px;
+}
+
+.cancelCanvas{
+    position: fixed;
+    top: 84%;
+    right: 5%;
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+    width: 35%;
+    height: 14%;
+}
+
+.cancelCanvasText{
+    padding-top: 1%;
+    position: fixed;
+    top: 86%;
+    right: 5%;
+    font-size: 4rem;
+    text-align: center;
+    display: block;
+    width: 35%;
+    height: 14%;
+}
+
+.cancelDrow{
+    position: fixed;
+    left: 12%;
+    top: 88%;
+    display: none;
+    width: 35%;
+    height: 20% !important;
+}
+
+.cancelDrowText{
+    position: fixed;
+    top: 88%;
+    left: 12%;
+    font-size: 4rem;
+    text-align: center;
+    display: none;
+    width: 35%;
+    height: 20% !important;
+}
+
+.saveCanvas{
+    position: fixed;
+    right: 12%;
+    top: 88%;
+    display: none;
+    width: 35%;
+    height: 20% !important;
+}
+
+.saveCanvasText{
+    position: fixed;
+    top: 88%;
+    right: 12%;
+    font-size: 4rem;
+    text-align: center;
+    display: none;
+    width: 35%;
+    height: 20% !important;
+}
+
+.orderChoice{
+    background-color: #f5c184;
+    text-align: center;
+    font-size: 4rem;
+    display: block;
+    top: 1%;
+    position: absolute;
+    border: 2px solid green;
+    border-radius: 50%;
+    width: 10%;
+    height: 7%;
+}
+
+#leftArrow{
+    right: 26%;
+}
+
+#rightArrow{
+    right: 1%;
+}
+
+#addOrder{
+    background-color: #f5c184;		
+    text-align: center;
+    font-size: 4rem;
+    display: block;
+    top: 8.5%;
+    right: 1%;
+    position: absolute;
+    border: 2px solid green;
+    border-radius: 50px;
+    width: 35%;
+    height: 8%;
+}
+
+#tableNumberView{
+    margin-top: 1%;
+    font-size: 3.5rem;
+}
+
+#wrapTableNumberView{
+    position: absolute;
+    display: block;
+    text-align: center;
+    top: 1%;
+    right: 11%;
+    width: 15%;
+}

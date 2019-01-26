@@ -1,0 +1,21 @@
+.wrapper{
+    background-color: aliceblue;
+}
+
+.panel{
+    border: 2px solid black;
+    background-color: #dededa;
+}
+
+.btn-tall{
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+}
+
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    border-top: 3px solid #245269;
+}

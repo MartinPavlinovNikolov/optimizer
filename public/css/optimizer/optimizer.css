@@ -1,0 +1,240 @@
+/* common rules */
+.tablets{
+    font-size: 15em;
+    margin-top: 10%;
+}
+p, a, span, h1, h2, h3, h4, h5, h6, button{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#work-page, #page-canvas, #page-corection, #page-history, #are-total-send, #are-order-send, #are-cancel{
+    display: none;
+}
+
+/*keyboard rules*/
+.keyboard{
+    position: fixed;
+    height: 66vh;
+    bottom: 4vh;
+}
+.keyboard-key{
+    border: 2px solid black;
+    font-size: 3em;
+    line-height: 1em;
+    position: absolute;
+    width: 26.666vw;
+    height: 15vh;
+}
+#keyboard-numbers{
+    font-size: 5em;
+    width: 40vw;
+    margin: 2vh auto;
+}
+#one{
+    left: 0;
+    top: 0;
+}
+#two{
+    left: 28.5vw;
+    top: 0;
+}
+#tree{
+    left: 57vw;
+    top: 0;
+}
+#four{
+    left: 0;
+    top: 17vh;
+}
+#five{
+    left: 28.5vw;
+    top: 17vh;
+}
+#six{
+    left: 57vw;
+    top: 17vh;
+}
+#seven{
+    left: 0;
+    bottom: 17vh;
+}
+#eight{
+    left: 28.5vw;
+    bottom: 17vh;
+}
+#nine{
+    left: 57vw;
+    bottom: 17vh;
+}
+#delete{
+    left: 0;
+    bottom: 0;
+}
+#zero{
+    left: 28.5vw;
+    bottom: 0;
+}
+#enter{
+    left: 57vw;
+    bottom: 0;
+}
+
+/*work-page rules*/
+.corection-page-item, .note-page-item, .menu-page-item{
+    border: 1px solid black;
+    border-radius: 0 50px 50px 0;
+    color: #333333;
+}
+.menu-page-header{
+    text-decoration: underline;
+    font-size: 8vw;
+    color: #333333;
+}
+.btns-top, .btns-bottom{
+    text-align: center;
+    position: absolute;
+    right: 0;
+    background-color: rgba(193, 193, 193, 0.2);
+}
+.btn-control{
+    font-size: 3vw;
+    padding: 0;
+    margin: .5vh 0;
+    width: 25vw;
+    height: 8vh;
+    border: 2px solid black;
+}
+.btns-top{
+    width: 30vw;
+    height: 48vh;
+    top: 0;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#left-arrow, #right-arrow{
+    position: absolute;
+    top: 0;
+    font-size: 3.5vw;
+    padding: 0;
+    width: 8vw;
+    height: 8vh;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+#left-arrow{
+    left: 2.2vw;
+}
+#right-arrow{
+    right: 2.2vw;
+}
+#add-order{
+    position: absolute;
+    top: 8vh;
+    right: 2.2vw;
+    font-size: 3.5vw;
+    padding: 0;
+    width: 25vw;
+    height: 8vh;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+#drow-note{
+    position: absolute;
+    left: 2.2vw;
+    top: 18vh;
+}
+#corection{
+    position: absolute;
+    left: 2.2vw;
+    top: 28vh;
+}
+#history{
+    position: absolute;
+    left: 2.2vw;
+    top: 38vh;
+}
+#atention{
+    position: absolute;
+    font-size: 3vw;
+    border: 2px solid black;
+    top: 56vh;
+    right: 1vw;
+    width: 8vw;
+    height: 8vh;
+}
+.btns-bottom{
+    width: 30vw;
+    height: 28vh;
+    bottom: 0;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
+/*canvas-page rules*/
+#corection-done, #close-canvas-page, #save-canvas, #cancel-drow{
+    position: absolute;
+    width: 30vw;
+    bottom: 2vh;
+}
+#close-canvas-page{
+    right: 2vw;
+}
+#save-canvas{
+    right: 14vw;
+}
+#cancel-drow{
+    left: 14vw;
+}
+canvas{
+    width: 96vw;
+    height: 90vh;
+    border-left: 1vw solid plum;
+    border-right: 1vw solid plum;
+    border-top: 1vh solid plum;
+    border-bottom: 1vh solid plum;
+    border-radius: 15px;
+    background-color: rgba(1,1,1,0.4);
+}
+
+/* corections page rules */
+.btns-corections-top{
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgba(193, 193, 193, 0.2);
+    width: 30vw;
+    height: 22vh;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#corection-done{
+    right: 2vw;
+}
+.errorItemToDelete{
+    background-color: white!important;
+}
+
+/* modal rules */
+.modal-content-height{
+    font-size: 6rem;
+    border: 2px solid black;
+    border-radius: 5px 5px 0 0;
+}
+.modal-footer{
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-radius: 0 0 5px 5px;
+}
+.btn-modal{
+    width: 40%;
+    margin: 0;
+}
+.modal-content{
+    background-color: #cccccc;
+}

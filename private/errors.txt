@@ -1,0 +1,419 @@
+Exception is hapen on >> 07/10/2017 07:17:58
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:18:05
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:18:57
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 137, 
+            with CODE >> 405, 
+          and MESSAGE >> Call to undefined method: someExistingClass->make-login-form%3cscript%3ealert('opaaa');%3c()
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:18:58
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:19:15
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:19:21
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:20:01
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:20:15
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:20:30
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:20:33
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:20:35
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:21:04
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:21:08
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 07/10/2017 07:21:10
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:02:23
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:02:27
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:02:41
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:02:57
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:03:11
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:03:15
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:03:20
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:08:57
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:09:00
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:11:18
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:16:37
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:16:41
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:23:01
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:23:06
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:23:11
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:26:14
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:26:20
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:26:36
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:26:45
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:05
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:18
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:30
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:33
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:40
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:27:51
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 10/10/2017 05:28:01
+              in FILE >> C:\xampp\htdocs\MPN\FrontController.php, 
+              on LINE >> 133, 
+            with CODE >> 405, 
+          and MESSAGE >> Class with name Optimizer\Controllers\Favicon.ico do not exist!
+                trace >> 0 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 1 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 2 {main} 
+
+
+Exception is hapen on >> 28/10/2017 02:40:35
+              in FILE >> C:\xampp\htdocs\MPN\Loader.php, 
+              on LINE >> 36, 
+            with CODE >> 500, 
+          and MESSAGE >> File cannot be included: Optimizer\Controllers\Optimizer 
+ 1-check is class exist in your project 
+ 2-check config file 
+ 3-check for namespaces in executing file 
+ or just FUCK THAT SHIT, and take one cold BEER 
+
+                trace >> 0 C:\xampp\htdocs\MPN\Loader.php(23): MPN\Loader::loadClass('Optimizer\\Contr...')
+                trace >> 1 [internal function]: MPN\Loader::autoload('Optimizer\\Contr...')
+                trace >> 2 [internal function]: spl_autoload_call('Optimizer\\Contr...')
+                trace >> 3 C:\xampp\htdocs\MPN\FrontController.php(132): class_exists('Optimizer\\Contr...')
+                trace >> 4 C:\xampp\htdocs\MPN\App.php(180): MPN\FrontController->dispatch()
+                trace >> 5 C:\xampp\htdocs\optimizer\public\index.php(11): MPN\App->run()
+                trace >> 6 {main} 
+
+
